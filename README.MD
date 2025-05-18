@@ -6,7 +6,7 @@
 **Local:** Hospital Samel, Manaus, Amazônia, Brasil  
 
 **Site do evento:**  
-https://sites.google.com/view/amazonia-datathon-2025/portugues?authuser=0  
+https://sites.google.com/view/amazonia-datathon-2025/portugues
 
 **Inscrições:**  
 https://www.eventbrite.com/e/amazonia-health-datathon-2025-tickets-1280309703789  
@@ -43,10 +43,13 @@ Os notebooks e conjuntos de dados também estão disponíveis [neste link](https
 
 **Date:** June 9-11, 2025
 **Location:** Hospital Samel, Manaus, Amazon, Brazil
+
 **Event website:**
-https://sites.google.com/view/amazonia-datathon-2025/english?authuser=0
+https://sites.google.com/view/amazonia-datathon-2025/english
+
 **Registration:**
 https://www.eventbrite.com/e/amazonia-health-datathon-2025-tickets-1280309703789 
+
 ### Repository structure
 
 ```text
