@@ -35,6 +35,9 @@ cd Brazil-Datathon-2025
 
 3. Abra o notebook correspondente em Jupyter ou Colab (recomendado) e execute todas as células na ordem.
 
+### Google Drive (opcional)
+Os notebooks e conjuntos de dados também estão disponíveis [neste link](https://drive.google.com/drive/folders/1R-cju1aBlffUOzXBugwwjb31JHeJ6ijF?usp=sharing)  
+
 ---
 ## English
 
@@ -66,3 +69,6 @@ cd Brazil-Datathon-2025
 2. Download the datasets following the instructions in the READMEs of each challenge.
 
 3. Open the corresponding notebook in Jupyter or Colab (recommended) and run all cells in order.
+
+### Google Drive (Optional)
+The notebooks and datasets are also available [here](https://drive.google.com/drive/folders/1R-cju1aBlffUOzXBugwwjb31JHeJ6ijF?usp=sharing)
