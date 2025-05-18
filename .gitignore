@@ -1,0 +1,113 @@
+# macOS files
+**/.DS_Store
+**/.AppleDouble
+**/.LSOverride
+
+# Icon must end with two \r
+Icon?
+
+# Thumbnails
+**/._*
+
+# Python cache and env
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python environment variables
+.env
+.env.*
+
+# IDE settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Colab notebooks outputs
+**/outputs/
+
+# Compiled C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Sphinx documentation
+docs/_build/
+
+# Jupyter Notebook metadata
+.ipynb_checkpoints
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Files are large, so Uncomment if needed to create your repo
+# Dataset_Desafio_1/*.zip
+# Dataset_Desafio_2/*.zip
+# Shapefiles/*.zip
+
+# Shapefile temp files (if you unzip the zip files)
+# *.shp
+# *.shx
+# *.dbf
+# *.prj
+# *.cpg
+
+# Other OS files
+Thumbs.db
+desktop.ini
